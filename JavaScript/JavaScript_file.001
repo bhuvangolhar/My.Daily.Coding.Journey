@@ -1,0 +1,15 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello World</title>
+</head>
+<body>
+    <div id="a1"></div>
+    <script src="h1.js"></script>
+</body>
+</html>
+
+console.log("Hello World");
+document.getElementById("a1").innerText = "Hello World";
+
