@@ -1,3 +1,6 @@
+
+// C Program : Compile-time Multiplication //
+
 #include<stdio.h>
 int main()
 {
