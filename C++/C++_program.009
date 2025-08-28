@@ -10,5 +10,5 @@ int main()
 	cin>>a;
 	cout<<"Enter the value of b = ";
 	cin>>b;
-	cout<<"Additon of the values = "<<a<<" + "<<b<<" = "<<a+b;
+	cout<<"Addition of the values = "<<a<<" + "<<b<<" = "<<a+b;
 }
