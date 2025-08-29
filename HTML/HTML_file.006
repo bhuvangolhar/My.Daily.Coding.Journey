@@ -1,16 +1,18 @@
 
+<!-- (HTML File : Smaller Heading tag) -->
+ 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sixth File</title>
+    <title>Smaller Heading tag</title>
 </head>
 <body>
     <h1>Swordigo</h1>
-    <h2>Download this app from Google Playstore now</h2>
+    <h2>Download this app from Google Playstore now!</h2>
     <h3>It's totally free with no additional charges</h3>
-    <h4>Create your own customized avatar</h4>
-    <p>Welcome to the Game of Magic and Adventures</p>
+    <h4>Create your own customized Avatar</h4>
+    <h5>Master of Chaos is ready to fight with you ;)</h5>
 </body>
 </html>
