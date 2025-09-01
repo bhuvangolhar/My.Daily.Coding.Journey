@@ -1,0 +1,13 @@
+
+// Java Class : Hello World
+
+package newPackage;
+
+public class W001 
+{
+
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello World");
+	}
+}
