@@ -1,13 +1,13 @@
 
-<!-- (HTML File : D01.html) -->
+<!-- (HTML File : Blank space) -->
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>File One</title>
-    <link rel="stylesheet" href="D01.css">
+    <title>Blank space</title>
+    <link rel="stylesheet" href="D001.css">
 </head>
 <body>
     
@@ -15,10 +15,9 @@
 </html>
 
 
-/* (CSS File : D01.css) */
+/* (CSS File : Blank space) */
 
 body 
 {
-  background-color: pink;
+  background-color: yellow;
 }
-
