@@ -1,0 +1,45 @@
+
+<! -- (HTML File : Border properties of div) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Border properties of div</title>
+    <link rel="stylesheet" href="D008.css">
+</head>
+<body>
+    <div>
+        Read, Write and Edit texts with AI tools!
+    </div>
+</body>
+</html>
+
+
+/* (CSS File : Border properties of div) */
+
+body 
+{
+   background-color: gray;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div
+{
+    color: yellow;
+    font-size: 18px;
+    height: 100px;
+    width: 100px;
+    border-top-width: 20px;
+    border-right-width: 20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: black;
+    border-right-color: black;
+    border-bottom-color: black;
+    border-left-color: black;
+}
