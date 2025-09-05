@@ -1,13 +1,13 @@
 
-<! -- (HTML File : D04.html) -->
+<! -- (HTML File : Coloring div texts) -->
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>File Four</title>
-    <link rel="stylesheet" href="D04.css">
+    <title>Coloring div texts</title>
+    <link rel="stylesheet" href="D004.css">
 </head>
 <body>
     <div>
@@ -19,7 +19,7 @@
 </html>
 
 
-/* (CSS File : D04.css) */
+/* (CSS File : Coloring div texts) */
 
 body 
 {
@@ -35,5 +35,5 @@ p
 } 
 h1
 {
-    color: orange;
+    color: maroon;
 }
