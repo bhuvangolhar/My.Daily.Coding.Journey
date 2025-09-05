@@ -1,0 +1,43 @@
+
+<! -- (HTML File : Font properties) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Font properties</title>
+    <link rel="stylesheet" href="D005.css">
+</head>
+<body>
+    <div>
+        Read, Write and Edit texts with AI tools!
+        <h1>Universe</h1>
+        <p>There are total eight planets in our solar system</p>
+    </div>
+</body>
+</html>
+
+
+/* (CSS File : Font properties) */
+
+body 
+{
+   background-color: pink;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div
+{
+    color: blue;
+    font-size: 20px;
+}
+p
+{
+    color: yellow;
+    font-size: 15px;
+} 
+h1
+{
+    color: maroon;
+    font-size: 25px;
+}
