@@ -1,0 +1,33 @@
+
+
+<! -- (HTML File : Coloring heading texts) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coloring heading texts</title>
+    <link rel="stylesheet" href="D003.css">
+</head>
+<body>
+    <h1>Universe</h1>
+    <p>There are total eight planets in our solar system.</p>
+</body>
+</html>
+
+
+/* (CSS File : Coloring heading texts) */
+
+body 
+{
+   background-color: pink;
+}
+p
+{
+    color: green;  
+} 
+h1
+{
+    color: red;
+}
