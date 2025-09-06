@@ -1,0 +1,91 @@
+
+<! -- (HTML File : Text decoration properties) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text decoration properties</title>
+    <link rel="stylesheet" href="D014.css">
+</head>
+<body>
+    <div id="a1">
+        C
+    </div>
+    <div id="a2">
+        C++
+    </div>
+    <div id="a3">
+        HTML
+    </div>
+    <div id="a4">
+        CSS
+    </div>
+</body>
+</html>
+
+
+/* (CSS File : Text decoration properties) */
+
+body 
+{
+   background-color: whitesmoke;
+   font-size: 31px;
+   height: 112px;
+   width: 288px;
+   line-height: 1.1;
+}
+#a1
+{
+    color: purple;
+    border: 3px solid indigo;
+    text-align: center;
+    margin: 123px 121px 121px 123px;
+    padding: 71px 91px 71px 91px;
+    outline: groove azure 4px 4px ;
+    text-decoration-line: none;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 2px;
+}
+#a2
+{
+    color: indigo;
+    border: 3px solid hotpink;
+    text-align: center;
+    margin: 123px 121px 121px 123px;
+    padding: 71px 91px 71px 91px;
+    outline: groove azure 4px 4px ;
+    text-decoration-line: none;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 2px;
+    
+}
+#a3
+{
+    color: violet;
+    border: 3px solid olive;
+    text-align: center;
+    margin: 123px 121px 121px 123px;
+    padding: 71px 101px 71px 71px;
+    outline: groove azure 4px 4px;
+    text-decoration-line: none;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 2px;
+}
+#a4
+{
+    color: blue;
+    border: 3px solid gold;
+    text-align: center;
+    margin: 123px 121px 121px 123px;
+    padding: 71px 91px 71px 91px;
+    outline: groove azure 4px 4px ;
+    text-decoration-line: none;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 2px;
+}
