@@ -1,0 +1,43 @@
+
+<! -- (HTML File : Shorthand properties) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shorthand properties</title>
+    <link rel="stylesheet" href="D013.css">
+</head>
+<body>
+    <div>
+        Trees are vital for life on Earth as they provide oxygen, improve air quality,
+        conserve water, preserve soil, and support biodiversity. They act as natural 
+        air filters by absorbing carbon dioxide and releasing oxygen, helping combat 
+        climate change. Trees also offer shade, reduce urban heat, and serve as habitats
+        for countless species. Beyond environmental benefits, they promote human well-
+        being by creating peaceful surroundings and enhancing the beauty of our planet.
+    </div>
+</body>
+</html>
+
+
+/* (CSS File : Shorthand properties) */
+
+body 
+{
+   background-color: wheat;
+}
+div
+{
+    color: indigo;
+    font-size: 13px;
+    height: 112px;
+    width: 288px;
+    border: 3px solid olive;
+    text-align: left;
+    margin: 123px 121px 121px 123px;
+    padding: 71px 91px 71px 91px;
+    line-height: 1.1;
+    outline: groove azure 4px 4px ;
+}
