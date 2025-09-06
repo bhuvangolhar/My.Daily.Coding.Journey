@@ -1,0 +1,60 @@
+
+<! -- (HTML File : Outline properties) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outline properties</title>
+    <link rel="stylesheet" href="D012.css">
+</head>
+<body>
+    <div>
+        C is a general-purpose programming language invented 
+        in 1972 by Dennis Ritchie at Bell Labs.
+    </div>
+</body>
+</html>
+
+  
+/* (CSS File : Outline properties) */
+
+body 
+{
+   background-color: darkblue;
+}
+div
+{
+    color: olive;
+    font-size: 28px;
+    height: 251px;
+    width: 251px;
+    border-top-width: 11px;
+    border-right-width: 11px;
+    border-bottom-width: 11px;
+    border-left-width: 11px;
+    border-top-style: dotted;
+    border-right-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: dotted;
+    border-top-color: yellow;
+    border-right-color: yellow;
+    border-bottom-color: yellow;
+    border-left-color: yellow;
+    text-align: center;
+    margin-top: 123px;
+    margin-right: 123px;
+    margin-bottom: 123px;
+    margin-left: 123px;
+    padding-top: 144px;
+    padding-right: 144px;
+    padding-bottom: 144px;
+    padding-left: 144px;
+    line-height: 2.3;
+    outline-style: groove;
+    outline-color: azure;
+    outline-width: 4px;
+    outline-offset: 4px;
+
+}
