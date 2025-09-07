@@ -47,14 +47,6 @@ div
     margin-right: 123px;
     margin-bottom: 123px;
     margin-left: 123px;
-    padding-top: 144px;
-    padding-right: 144px;
-    padding-bottom: 144px;
-    padding-left: 144px;
-    line-height: 2.3;
-    outline-style: groove;
-    outline-color: azure;
-    outline-width: 4px;
-    outline-offset: 4px;
+   
 
 }
