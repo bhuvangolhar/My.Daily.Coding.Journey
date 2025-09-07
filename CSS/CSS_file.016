@@ -207,21 +207,4 @@ body
     overflow-wrap: break-word;
     
 }
-#a10
-{
-    color: maroon;
-    border: 3px solid red;
-    text-align: center;
-    margin: 123px 121px 121px 123px;
-    padding: 71px 91px 71px 91px;
-    outline: groove azure 4px 4px ;
-    letter-spacing: 1px;
-    word-spacing: 5px;
-    line-height: 1.1;
-    text-indent: 15px;
-    white-space: nowrap;
-    word-break: break-all;
-    overflow-wrap: break-word;
-    
 
-}
