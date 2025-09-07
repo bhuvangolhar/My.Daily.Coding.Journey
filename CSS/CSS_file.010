@@ -35,13 +35,7 @@ div
     border-right-width: 15px;
     border-bottom-width: 10px;
     border-left-width: 15px;
-    border-top-style: dashed;
-    border-right-style: dotted;
-    border-bottom-style: dashed;
-    border-left-style: dotted;
-    border-top-color: yellow;
-    border-right-color: violet;
-    border-bottom-color: yellow;
+  
     border-left-color: violet;
     text-align: justify;
     margin-top: 125px;
