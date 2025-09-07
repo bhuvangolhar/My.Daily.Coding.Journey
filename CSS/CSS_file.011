@@ -38,16 +38,7 @@ div
     border-top-style: dotted;
     border-right-style: dotted;
     border-bottom-style: dotted;
-    border-left-style: dotted;
-    border-top-color: yellow;
-    border-right-color: yellow;
-    border-bottom-color: yellow;
-    border-left-color: yellow;
-    text-align: left;
-    margin-top: 121px;
-    margin-right: 122px;
-    margin-bottom: 123px;
-    margin-left: 124px;
+
     padding-top: 111px;
     padding-right: 113px;
     padding-bottom: 113px;
