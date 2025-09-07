@@ -76,16 +76,3 @@ body
     text-decoration-style: wavy;
     text-decoration-thickness: 2px;
 }
-#a4
-{
-    color: blue;
-    border: 3px solid gold;
-    text-align: center;
-    margin: 123px 121px 121px 123px;
-    padding: 71px 91px 71px 91px;
-    outline: groove azure 4px 4px ;
-    text-decoration-line: none;
-    text-decoration-color: red;
-    text-decoration-style: wavy;
-    text-decoration-thickness: 2px;
-}
