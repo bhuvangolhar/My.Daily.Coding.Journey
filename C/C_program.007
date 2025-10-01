@@ -5,7 +5,6 @@
 int main()
 {
 	int a,b;
-	a=10;
-	b=5;
+	
 	printf("a = %d\nb = %d\ndivision = %d",a,b,a/b);
 }
