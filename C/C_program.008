@@ -5,7 +5,6 @@
 int main()
 {
 	int a,b;
-	a=20;
-	b=15;
+	
 	printf("a = %d\nb = %d\nmodulus = %d",a,b,a%b);
 }
