@@ -5,9 +5,7 @@
 using namespace std;
 int main()
 {
-	int a,b;
-	cout<<"Enter the value of a = ";
-	cin>>a;
+
 	cout<<"Enter the value of b = ";
 	cin>>b;
 	cout<<"Multiplication of the values = "<<a<<" * "<<b<<" = "<<a*b;
