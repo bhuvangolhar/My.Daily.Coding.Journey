@@ -1,10 +1,11 @@
 
-// C Program : Compile-time Substraction //
+// C Program : Compile-time Substraction
 
 #include<stdio.h>
 int main()
 {
 	int a,b;
-
+	a = 20;
+	b = 10;
 	printf("a = %d\nb = %d\nsubstraction = %d",a,b,a-b);
 }
