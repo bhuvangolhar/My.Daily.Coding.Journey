@@ -1,9 +1,11 @@
 
-// C Program : Compile-time Multiplication //
+// C Program : Compile-time Multiplication
 
 #include<stdio.h>
 int main()
 {
-	
+	int a,b;
+	a = 5;
+	b = 10;
 	printf("a = %d\nb = %d\nmultiplication = %d",a,b,a*b);
 }
