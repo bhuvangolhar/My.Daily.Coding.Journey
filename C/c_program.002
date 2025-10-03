@@ -1,0 +1,8 @@
+
+// C Program : Using next line
+
+#include<stdio.h>
+int main()
+{
+	printf("Hi everyone, \nLets work together towards our goal.");
+}

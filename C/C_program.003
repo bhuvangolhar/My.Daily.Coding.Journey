@@ -1,8 +1,0 @@
-
-// C Program : Using next line //
-
-#include<stdio.h>
-int main()
-{
-	printf("Hi everyone,\nlets work together towards our goal.");
-}
