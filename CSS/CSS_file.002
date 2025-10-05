@@ -4,16 +4,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Color properties</title>
-    <link rel="stylesheet" href="D002.css">
-</head>
-<body>
-    <p>There are 8 planets in our solar system.</p>
-</body>
-</html>
-
+ 
 
 /* (CSS File : Color properties) */
 
