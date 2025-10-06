@@ -1,13 +1,13 @@
 
-// C Program : Run-time Multiplication //
+// C Program : Run-time Multiplication
 
 #include<stdio.h>
 int main()
 {
 	int a,b;
 	printf("Enter the value of a = "); 
-
-	printf("Enter the value of b = "); 
+	scanf("%d",&a);
+    printf("Enter the value of b = "); 
 	scanf("%d",&b);
 	printf("Multiplication of the values = %d * %d = %d",a,b,a*b);
 }
