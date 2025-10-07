@@ -1,0 +1,9 @@
+
+// C++ Program : Using next line
+
+#include<iostream>
+using namespace std;
+int main()
+{
+	cout<<"How many universes exist"<<endl<<"according to the multiverse theory?";
+}

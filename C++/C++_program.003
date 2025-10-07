@@ -1,9 +1,0 @@
-
-// C++ Program : Using next line //
-
-#include<iostream>
-using namespace std;
-int main()
-{
-	cout<<"There is absolutely nothing impossible"<<endl<<"in this whole universe.";
-}
