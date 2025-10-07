@@ -1,0 +1,12 @@
+
+// C++ Program : Compile-time Multiplication
+
+#include<iostream>
+using namespace std;
+int main()
+{
+	int a,b;
+	a=20;
+	b=40;
+	cout<<"a = "<<a<<endl<<"b = "<<b<<endl<<"multiplication = "<<a*b;
+}
