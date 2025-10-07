@@ -1,11 +1,12 @@
 
-// C++ Program : Compile-time Modulus //
+// C++ Program : Compile-time Modulus
 
 #include<iostream>
-
+using namespace std;
+int main()
 {
 	int a,b;
-	a=14;
-	b=4;
+	a=40;
+	b=15;
 	cout<<"a = "<<a<<endl<<"b = "<<b<<endl<<"modulus = "<<a%b;
 }
