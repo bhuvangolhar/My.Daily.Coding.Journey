@@ -1,11 +1,12 @@
 
+// C++ Program : Compile-time Division
 
 #include<iostream>
 using namespace std;
 int main()
 {
 	int a,b;
-	a=12;
-	b=2;
+	a=40;
+	b=20;
 	cout<<"a = "<<a<<endl<<"b = "<<b<<endl<<"division = "<<a/b;
 }
