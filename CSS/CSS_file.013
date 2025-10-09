@@ -1,6 +1,15 @@
 
 <! -- (HTML File : Shorthand properties) -->
 
+
+        Trees are vital for life on Earth as they provide oxygen, improve air quality,
+        conserve water, preserve soil, and support biodiversity. They act as natural 
+        air filters by absorbing carbon dioxide and releasing oxygen, helping combat 
+      
+    </div>
+</body>
+</html>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,15 +20,6 @@
 </head>
 <body>
     <div>
-        Trees are vital for life on Earth as they provide oxygen, improve air quality,
-        conserve water, preserve soil, and support biodiversity. They act as natural 
-        air filters by absorbing carbon dioxide and releasing oxygen, helping combat 
-      
-    </div>
-</body>
-</html>
-
-
 /* (CSS File : Shorthand properties) */
 
 body 
