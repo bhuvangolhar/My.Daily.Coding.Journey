@@ -1,15 +1,7 @@
 
 <! -- (HTML File : Outline properties) -->
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Outline properties</title>
-    <link rel="stylesheet" href="D012.css">
-</head>
-<body>
+
     <div>
         C is a general-purpose programming language invented 
         in 1972 by Dennis Ritchie at Bell Labs.
@@ -48,5 +40,13 @@ div
     margin-bottom: 123px;
     margin-left: 123px;
    
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outline properties</title>
+    <link rel="stylesheet" href="D012.css">
+</head>
+<body>
 }
