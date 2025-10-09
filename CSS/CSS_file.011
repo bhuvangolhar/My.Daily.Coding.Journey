@@ -1,15 +1,7 @@
 
 <! -- (HTML File : Padding properties) -->
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Padding properties</title>
-    <link rel="stylesheet" href="D011.css">
-</head>
-<body>
+
     <div>
         Python is a high-level programming language invented
         in 1991 by Guido van Rossum at Centrum Wiskunde & Informatica. 
@@ -43,4 +35,12 @@ div
     padding-right: 113px;
     padding-bottom: 113px;
     padding-left: 111px;
-}
+}<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Padding properties</title>
+    <link rel="stylesheet" href="D011.css">
+</head>
+<body>
