@@ -1,15 +1,7 @@
 
 <! -- (HTML File : Margin properties) -->
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Margin properties</title>
-    <link rel="stylesheet" href="D010.css">
-</head>
-<body>
+
     <div>
         Python is a high-level programming language invented
         in 1991 by Guido van Rossum at Centrum Wiskunde & Informatica. 
@@ -43,3 +35,12 @@ div
     margin-bottom: 125px;
     margin-left: 125px;
 }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Margin properties</title>
+    <link rel="stylesheet" href="D010.css">
+</head>
+<body>
