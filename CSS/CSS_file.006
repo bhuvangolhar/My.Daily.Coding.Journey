@@ -16,6 +16,15 @@
 /* (CSS File : Height & Width of div) */
 
 body 
+{<!DOCTYPE html>
+<html lang="en">
+<head>
+ 
+
+
+/* (CSS File : Blank space) */
+
+body 
 {
    background-color: pink;
    font-family: Georgia, 'Times New Roman', Times, serif;
