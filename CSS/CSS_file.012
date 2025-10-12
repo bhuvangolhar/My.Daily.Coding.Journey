@@ -6,7 +6,21 @@
         C is a general-purpose programming language invented 
         in 1972 by Dennis Ritchie at Bell Labs.
     </div>
+</body>ody>
+    <div>
+        Java is a high-level programming language invented
+        in 1991 by James Gosling at Sun Microsystems.
+    </div>
 </body>
+</html>
+
+
+/* (CSS File : Text alignment properties) */
+
+body 
+{
+   background-color: orange;
+   font-family: Georgia, 'Times Ne
 </html>
 
   
