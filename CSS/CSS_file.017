@@ -8,30 +8,7 @@
 </head>
 <body>
     <div id="a1">
-        C
-    </div>
-    <div id="a2">
-        C++
-    </div>
-    <div id="a3">
-        HTML
-    </div>
-    <div id="a4">
-        CSS
-    </div>
-    <div id="a5">
-        Java
-    </div>
-    <div id="a6">
-        JavaScript
-    </div>
-    <div id="a7">
-        React
-    </div>
-    <div id="a8">
-        SQL
-    </div>
-    <div id="a9">
+  
         Python
     </div>
     <div id="a10">
