@@ -21,18 +21,7 @@ body
         Read, Write and Edit texts with AI tools!
     </div>
 </body>
-</html>
-
-
-/* (CSS File : Borders of div) */
-
-body 
-{
-   background-color: gray;
-   font-family: Georgia, 'Times New Roman', Times, serif;
-}
-div
-{
+</h
     color: yellow;
     font-size: 18px;
     height: 100px;
