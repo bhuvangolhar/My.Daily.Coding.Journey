@@ -66,19 +66,7 @@ body
     text-decoration-line: none;
     text-decoration-color: red;
     text-decoration-style: wavy;
-    text-decoration-thickness: 2px;
-    <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Text decoration properties</title>
-    <link rel="stylesheet" href="D014.css">
-</head>
-<body>
-}
-#a3
-{
+    text-d
     color: violet;
     border: 3px solid olive;
     text-align: center;
