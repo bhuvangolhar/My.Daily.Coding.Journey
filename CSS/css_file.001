@@ -1,0 +1,23 @@
+
+<!-- (HTML File : Blank Space) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blank Space</title>
+    <link rel="stylesheet" href="blank_space.css">
+</head>
+<body>
+
+</body>
+</html>
+
+
+/* (CSS File : Hello World) */
+
+body
+{
+    background-color: white;
+}
