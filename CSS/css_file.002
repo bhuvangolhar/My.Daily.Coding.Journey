@@ -19,9 +19,9 @@
 
 body 
 {
-  background-color: yellow;
+    background-color: yellow;
 }
 p
 {
-  color: blue;  
+    color: blue;  
 } 
