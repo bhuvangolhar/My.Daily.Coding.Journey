@@ -1,0 +1,27 @@
+
+<!-- (HTML File : Coloring paragraph texts) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coloring paragraph texts</title>
+    <link rel="stylesheet" href="coloring_paragraph_texts.css">
+</head>
+<body>
+    <p>There are total 8 planets in our solar system.</p>
+</body>
+</html>
+
+
+/* (CSS File : Coloring paragraph texts) */
+
+body 
+{
+  background-color: yellow;
+}
+p
+{
+  color: blue;  
+} 
