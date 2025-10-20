@@ -1,0 +1,20 @@
+
+<!-- HTML File : Paragraph tag -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paragraph tag</title>
+</head>
+<body>
+    <h1>SWORDIGO 🔮</h1>
+    <h2>Download this app from Google Playstore now!</h2>
+    <h3>It's totally Free with no additional charges @Rs.0/-</h3>
+    <h4>Create your own customized #Avatar</h4>
+    <h5>Master of Chaos is ready to fight with you :)</h5>
+    <h6>*click here to get more details*</h6>
+    <p>Welcome to the world of magic and adventures.</p>
+</body>
+</html>
