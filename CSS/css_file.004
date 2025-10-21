@@ -1,0 +1,45 @@
+
+<!-- (HTML File : Coloring div texts) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coloring div texts</title>
+    <link rel="stylesheet" href="coloring_div_texts.css">
+</head>
+<body>
+    <div>  
+        <h1>Earth</h1>
+        <p>There are total 8 planets in our solar system.</p>
+        The solar system is a vast collection of celestial bodies orbiting the Sun. 
+        The solar system consists of the Sun, eight planets, their moons, and countless
+        asteroids and comets. The solar system formed about 4.6 billion years ago from
+        a giant cloud of gas and dust called the solar nebula. Beyond Neptune lies the
+        Kuiper Belt, home to icy objects and dwarf planets like Pluto. The solar system
+        extends far beyond that into the Oort Cloud, a vast region of distant comets and
+        frozen bodies that marks its outer boundary.
+    </div>
+</body>
+</html>
+
+
+/* (CSS File : Coloring div texts) */
+
+body 
+{
+    background-color: yellow;
+}
+div
+{
+    color: green;
+}
+h1
+{
+    color: red;
+}
+p
+{
+    color: blue;  
+} 
