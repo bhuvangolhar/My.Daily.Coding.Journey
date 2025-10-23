@@ -1,0 +1,163 @@
+
+<!-- (HTML File : Border width of element) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Border width of element</title>
+    <link rel="stylesheet" href="border_width_of_element">
+</head>
+<body>
+    <div id="a">
+        C
+    </div>
+    <div id="b">
+        C++
+    </div>
+    <div id="c">
+        HTML
+    </div>
+    <div id="d">
+        CSS
+    </div>
+    <div id="e">
+        Java
+    </div>
+    <div id="f">
+        JavaScript
+    </div>
+    <div id="g">
+        React
+    </div>
+    <div id="h">
+        Python
+    </div>
+    <div id="i">
+        SQL
+    </div>
+    <div id="j">
+        C#
+    </div>
+</body>
+</html>
+
+
+/* (CSS File : Border width of element) */
+
+body 
+{
+    background-color: azure;
+    font-family: 'Times New Roman', Times, serif;
+}
+#a
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: brown;
+    border-top-width: 20px;
+    border-right-width: 20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+}
+#b
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: darkorange;
+    border-top-width: 20px;
+    border-right-width: 20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+}
+#c
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: violet;
+    border-top-width: 20px;
+    border-right-width: 20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+}
+#d
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: maroon;
+    border-top-width: 20px;
+    border-right-width: 20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+}
+#e
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: red;
+    border-top-width: 20px;
+    border-right-width: 20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+}
+#f
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: purple;
+    border-top-width: 20px;
+    border-right-width: 20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+}
+#g
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: gold;
+    border-top-width: 20px;
+    border-right-width: 20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+}
+#h
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: forestgreen;
+    border-top-width: 20px;
+    border-right-width: 20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+}
+#i
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: dodgerblue;
+    border-top-width: 20px;
+    border-right-width: 20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+}
+#j
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: cadetblue;
+    border-top-width: 20px;
+    border-right-width: 20px;
+    border-bottom-width: 20px;
+    border-left-width: 20px;
+}
