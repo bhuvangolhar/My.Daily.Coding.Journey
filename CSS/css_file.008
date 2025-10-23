@@ -1,0 +1,52 @@
+
+<!-- (HTML File : Width of element) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Width of element</title>
+    <link rel="stylesheet" href="width_of_element.css">
+</head>
+<body>
+    <div>  
+        <h1>Earth</h1>
+        <p>There are total 8 planets in our solar system.</p>
+        The solar system is a vast collection of celestial bodies orbiting the Sun. 
+        The solar system consists of the Sun, eight planets, their moons, and countless
+        asteroids and comets. The solar system formed about 4.6 billion years ago from
+        a giant cloud of gas and dust called the solar nebula. Beyond Neptune lies the
+        Kuiper Belt, home to icy objects and dwarf planets like Pluto. The solar system
+        extends far beyond that into the Oort Cloud, a vast region of distant comets and
+        frozen bodies that marks its outer boundary.
+    </div>
+</body>
+</html>
+
+
+/* (CSS File : Width of element) */
+
+body 
+{
+    background-color: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div
+{
+    color: green;
+    font-size: 15px;
+    height: 300px;
+    width: 600px;
+    background-color: brown;
+}
+h1
+{
+    color: red;
+    font-size: 24px;
+}
+p
+{
+    color: blue;  
+    font-size: 18px;
+} 
