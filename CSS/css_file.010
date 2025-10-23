@@ -1,0 +1,202 @@
+
+<!-- (HTML File : Border style of element) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Border style of element</title>
+    <link rel="stylesheet" href="border_style_of_element.css">
+</head>
+<body>
+    <div id="a">
+        C
+    </div>
+    <div id="b">
+        C++
+    </div>
+    <div id="c">
+        HTML
+    </div>
+    <div id="d">
+        CSS
+    </div>
+    <div id="e">
+        Java
+    </div>
+    <div id="f">
+        JavaScript
+    </div>
+    <div id="g">
+        React
+    </div>
+    <div id="h">
+        Python
+    </div>
+    <div id="i">
+        SQL
+    </div>
+    <div id="j">
+        C#
+    </div>
+</body>
+</html>
+
+
+/* (CSS File : Border style of element) */
+
+body 
+{
+    background-color: azure;
+    font-family: 'Times New Roman', Times, serif;
+}
+#a
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: brown;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-bottom-width: 10px;
+    border-left-width: 10px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+#b
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: darkorange;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-bottom-width: 10px;
+    border-left-width: 10px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+#c
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: violet;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-bottom-width: 10px;
+    border-left-width: 10px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+#d
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: maroon;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-bottom-width: 10px;
+    border-left-width: 10px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+#e
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: red;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-bottom-width: 10px;
+    border-left-width: 10px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+#f
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: purple;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-bottom-width: 10px;
+    border-left-width: 10px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+#g
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: gold;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-bottom-width: 10px;
+    border-left-width: 10px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+#h
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: forestgreen;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-bottom-width: 10px;
+    border-left-width: 10px;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+#i
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: dodgerblue;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-bottom-width: 10px;
+    border-left-width: 10px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+#j
+{
+    color: black;
+    height: 75px;
+    width: 75px;
+    background-color: cadetblue;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-bottom-width: 10px;
+    border-left-width: 10px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
