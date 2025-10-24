@@ -5,21 +5,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello World</title>
-    <link rel="stylesheet" href="X001.css">
-</head>
-<body>
-    <div id="z">
 
-    </div>
-
-    <script src="X001.js"></script>
-</body>
-</html>
-
-
-/* (CSS File : Hello World) */
 
 body
 {
