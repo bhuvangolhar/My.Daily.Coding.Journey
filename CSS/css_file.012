@@ -1,0 +1,36 @@
+
+<!-- (HTML File : Text alignment) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text alignment</title>
+    <link rel="stylesheet" href="text_alignment.css">
+</head>
+<body>
+    <div>
+        Java is a high-level programming language 
+        invented in 1991 by James Gosling at Sun Microsystems.
+    </div>
+</body>
+</html>
+
+
+/* (CSS File : Text alignment) */
+
+body 
+{
+    background-color: wheat;
+    font-family: 'Times New Roman', Times, serif;
+}
+div
+{
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    height: 30px;
+    width: 1520px;
+    background-color: red;
+}
