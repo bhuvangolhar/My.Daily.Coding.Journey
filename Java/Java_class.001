@@ -4,7 +4,14 @@
 package newPackage;
 
 public class W001 
+{ackage newPackage;
+
+public class W001 
 {
+
+	public static void main(String[] args) 
+	{
+		System.o
 
 	public static void main(String[] args) 
 	{
