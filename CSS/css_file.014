@@ -1,0 +1,44 @@
+
+<!-- (HTML File : Padding properties) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Padding properties</title>
+    <link rel="stylesheet" href="padding_properties.css">
+</head>
+<body>
+    <div>
+        C++ is a general-purpose programming language
+        invented in 1983 by Bjarne Stroustrup at Bell Labs.
+    </div>
+</body>
+</html>
+
+
+/* (CSS File : Padding properties) */
+
+body 
+{
+    background-color: wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div
+{
+    text-align: right;
+    margin-top: 225px;
+    margin-right: 225px;
+    margin-bottom: 225px;
+    margin-left: 225px;
+    padding-top: 110px;
+    padding-right: 110px;
+    padding-bottom: 110px;
+    padding-left: 110px;
+    color: black;
+    font-size: 18px;
+    height: 30px;
+    width: 980px;
+    background-color: yellow;
+}
