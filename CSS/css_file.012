@@ -1,13 +1,13 @@
 
-<!-- (HTML File : Text alignment) -->
+<!-- (HTML File : Text alignment properties) -->
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Text alignment</title>
-    <link rel="stylesheet" href="text_alignment.css">
+    <title>Text alignment properties</title>
+    <link rel="stylesheet" href="text_alignment_properties.css">
 </head>
 <body>
     <div>
@@ -18,7 +18,7 @@
 </html>
 
 
-/* (CSS File : Text alignment) */
+/* (CSS File : Text alignment properties) */
 
 body 
 {
