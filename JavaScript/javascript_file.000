@@ -1,0 +1,41 @@
+
+<!-- (HTML File : Hello World) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="hello_world.css">
+</head>
+<body>
+    <div id="z1">
+
+    </div>
+
+    <script src="hello_world.js"></script>
+</body>
+</html>
+
+
+/* (CSS File : Hello World) */
+
+body
+{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}
+#z1
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+}
+
+
+// JavaScript File : Hello World
+
+console.log("Hello World");
+document.getElementById("z1").innerText="Hello World";
