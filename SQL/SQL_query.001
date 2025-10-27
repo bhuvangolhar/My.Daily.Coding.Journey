@@ -1,2 +1,3 @@
 Hello World in SQL
-SELECT 'Hello, World!' AS greeting;
+SELECT 'Hello, World!' 'Hello, World!' AS greeting;
+ AS greeting;
