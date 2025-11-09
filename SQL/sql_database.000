@@ -1,0 +1,4 @@
+
+-- (SQL Database : Hello World)
+
+SELECT 'Hello World';
