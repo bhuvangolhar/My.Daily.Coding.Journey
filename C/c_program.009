@@ -1,5 +1,5 @@
 
-// C Program : Run-time Substraction
+// C program : Run-time substraction
 
 #include<stdio.h>
 int main()
