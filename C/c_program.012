@@ -1,5 +1,5 @@
 
-// C Program : Run-time Modulus
+// C program : Run-time modulus
 
 #include<stdio.h>
 int main()
