@@ -1,10 +1,2 @@
 
 <!-- (HTML File : Hello World) -->
-
-<!DOCTYPE html>
-<html lang="en">
-
-// JavaScript File : Hello World
-
-console.log("Hello World");
-document.getElementById("z1").innerText="Hello World";
