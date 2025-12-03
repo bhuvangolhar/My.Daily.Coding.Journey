@@ -1,11 +1,11 @@
 
-// C program : Compile-time modulus
+// (C program : Compile-time modulus)
 
 #include<stdio.h>
 int main()
 {
 	int a,b;
-	a = 10;
-	b = 5;
+	a = 15;
+	b = 10;
 	printf("a = %d\nb = %d\nmodulus = %d",a,b,a%b);
 }
