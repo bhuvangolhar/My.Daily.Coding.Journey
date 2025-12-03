@@ -1,5 +1,5 @@
 
-// C program : Compile-time multiplication
+// (C program : Compile-time multiplication)
 
 #include<stdio.h>
 int main()
