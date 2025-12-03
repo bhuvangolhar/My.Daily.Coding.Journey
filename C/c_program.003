@@ -1,5 +1,5 @@
 
-// C program : Compile-time addition
+// (C program : Compile-time addition)
 
 #include<stdio.h>
 int main()
