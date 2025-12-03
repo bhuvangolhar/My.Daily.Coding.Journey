@@ -1,8 +1,8 @@
 
-// C program : Using space
+// (C program : Using space)
 
 #include<stdio.h>
 int main()
 {
-	printf("Hey there, \t welcome to my home!");
+	printf("Hey, \t how are you?");
 }
