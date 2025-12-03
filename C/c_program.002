@@ -1,8 +1,8 @@
 
-// C program : Using next line
+// (C program : Using next line)
 
 #include<stdio.h>
 int main()
 {
-	printf("Hi everyone, \nlets work together towards our goal.");
+	printf("Let \nthe game begin!");
 }
