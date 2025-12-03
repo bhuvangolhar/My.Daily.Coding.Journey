@@ -1,5 +1,5 @@
 
-// C program : Compile-time substraction
+// (C program : Compile-time subtraction)
 
 #include<stdio.h>
 int main()
@@ -7,5 +7,5 @@ int main()
 	int a,b;
 	a = 20;
 	b = 10;
-	printf("a = %d\nb = %d\nsubstraction = %d",a,b,a-b);
+	printf("a = %d\nb = %d\nsubtraction = %d",a,b,a-b);
 }
