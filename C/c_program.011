@@ -1,5 +1,5 @@
 
-// C program : Run-time division
+// (C program : Run-time division)
 
 #include<stdio.h>
 int main()
