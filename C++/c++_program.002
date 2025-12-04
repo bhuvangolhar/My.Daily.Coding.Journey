@@ -1,9 +1,9 @@
 
-// C++ Program : Using next line
+// (C++ program : Using next line)
 
 #include<iostream>
 using namespace std;
 int main()
 {
-	cout<<"How many universes exist"<<endl<<"according to the multiverse theory?";
+	cout<<"Where"<<endl<<"are you going?";
 }
