@@ -1,9 +1,9 @@
 
-// C++ program : Using space
+// (C++ program : Using space)
 
 #include<iostream>
 using namespace std;
 int main()
 {
-	cout<<"Congratulations \t on achieving your dream job!";
+	cout<<"Congratulations \t for winnig the chess competetion!";
 }
