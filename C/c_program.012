@@ -1,6 +1,5 @@
-.
 
-// C program : Run-time modulus
+// (C program : Run-time modulus)
 
 #include<stdio.h>
 int main()
@@ -12,4 +11,3 @@ int main()
 	scanf("%d",&b);
 	printf("Modulus of the values = %d mod %d = %d",a,b,a%b);
 }
-.
