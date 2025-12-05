@@ -1,5 +1,5 @@
 
-// C++ Program : Compile-time Division
+// (C++ program : Compile-time division)
 
 #include<iostream>
 using namespace std;
