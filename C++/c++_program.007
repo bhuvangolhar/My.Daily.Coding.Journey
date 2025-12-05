@@ -1,5 +1,5 @@
 
-// C++ Program : Compile-time Modulus
+// (C++ program : Compile-time modulus)
 
 #include<iostream>
 using namespace std;
