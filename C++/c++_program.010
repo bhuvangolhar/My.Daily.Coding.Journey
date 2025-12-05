@@ -1,5 +1,5 @@
 
-// C++ Program : Run-time Multiplication
+// (C++ program : Run-time multiplication)
 
 #include<iostream>
 using namespace std;
