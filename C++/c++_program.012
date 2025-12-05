@@ -1,6 +1,5 @@
-.
 
-// C++ Program : Run-time Modulus
+// (C++ program : Run-time modulus)
 
 #include<iostream>
 using namespace std;
