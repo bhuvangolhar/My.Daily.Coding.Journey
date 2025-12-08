@@ -1,5 +1,5 @@
-**.**
-<!-- (HTML File : Coloring heading texts) -->
+
+<!-- (HTML file : Coloring heading texts) -->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -16,7 +16,7 @@
 </html>
 
 
-/* (CSS File : Coloring heading texts) */
+/* (CSS file : Coloring heading texts) */
 
 body 
 {
