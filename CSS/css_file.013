@@ -1,13 +1,13 @@
 
-<!-- (HTML File : Margin properties) -->
+<!-- (HTML file : Margin in div) -->
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Margin properties</title>
-    <link rel="stylesheet" href="margin_properties.css">
+    <title>Margin in div</title>
+    <link rel="stylesheet" href="margin_in_div.css">
 </head>
 <body>
     <div>
@@ -18,7 +18,7 @@
 </html>
 
 
-/* (CSS File : Margin properties) */
+/* (CSS file : Margin in div) */
 
 body 
 {
