@@ -1,5 +1,5 @@
 
-<!-- (HTML File : Border style of element) -->
+<!-- (HTML file : Border style of element) -->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -11,56 +11,56 @@
 </head>
 <body>
     <div id="a">
-        C
+        Nandanvan
     </div>
     <div id="b">
-        C++
+        Sakkardara
     </div>
     <div id="c">
-        HTML
+        Mahal
     </div>
     <div id="d">
-        CSS
+        Itwari
     </div>
     <div id="e">
-        Java
+        Sitabuldi
     </div>
     <div id="f">
-        JavaScript
+        Dhantoli
     </div>
     <div id="g">
-        React
+        Ramdaspeth
     </div>
     <div id="h">
-        Python
+        Dharampeth
     </div>
     <div id="i">
-        SQL
+        Kalamana
     </div>
     <div id="j">
-        C#
+        Sadar
     </div>
 </body>
 </html>
 
 
-/* (CSS File : Border style of element) */
+/* (CSS file : Border style of element) */
 
 body 
 {
-    background-color: azure;
+    background-color: white;
     font-family: 'Times New Roman', Times, serif;
 }
 #a
 {
     color: black;
-    height: 75px;
-    width: 75px;
-    background-color: brown;
-    border-top-width: 10px;
-    border-right-width: 10px;
-    border-bottom-width: 10px;
-    border-left-width: 10px;
+    height: 85px;
+    width: 85px;
+    background-color: pink;
+    border-top-width: 15px;
+    border-right-width: 15px;
+    border-bottom-width: 15px;
+    border-left-width: 15px;
     border-top-style: solid;
     border-right-style: solid;
     border-bottom-style: solid;
@@ -69,13 +69,13 @@ body
 #b
 {
     color: black;
-    height: 75px;
-    width: 75px;
-    background-color: darkorange;
-    border-top-width: 10px;
-    border-right-width: 10px;
-    border-bottom-width: 10px;
-    border-left-width: 10px;
+    height: 85px;
+    width: 85px;
+    background-color: blue;
+    border-top-width: 15px;
+    border-right-width: 15px;
+    border-bottom-width: 15px;
+    border-left-width: 15px;
     border-top-style: solid;
     border-right-style: solid;
     border-bottom-style: solid;
@@ -84,13 +84,13 @@ body
 #c
 {
     color: black;
-    height: 75px;
-    width: 75px;
-    background-color: violet;
-    border-top-width: 10px;
-    border-right-width: 10px;
-    border-bottom-width: 10px;
-    border-left-width: 10px;
+    height: 85px;
+    width: 85px;
+    background-color: yellow;
+    border-top-width: 15px;
+    border-right-width: 15px;
+    border-bottom-width: 15px;
+    border-left-width: 15px;
     border-top-style: solid;
     border-right-style: solid;
     border-bottom-style: solid;
@@ -99,13 +99,13 @@ body
 #d
 {
     color: black;
-    height: 75px;
-    width: 75px;
-    background-color: maroon;
-    border-top-width: 10px;
-    border-right-width: 10px;
-    border-bottom-width: 10px;
-    border-left-width: 10px;
+    height: 85px;
+    width: 85px;
+    background-color: purple;
+    border-top-width: 15px;
+    border-right-width: 15px;
+    border-bottom-width: 15px;
+    border-left-width: 15px;
     border-top-style: solid;
     border-right-style: solid;
     border-bottom-style: solid;
@@ -114,13 +114,13 @@ body
 #e
 {
     color: black;
-    height: 75px;
-    width: 75px;
+    height: 85px;
+    width: 85px;
     background-color: red;
-    border-top-width: 10px;
-    border-right-width: 10px;
-    border-bottom-width: 10px;
-    border-left-width: 10px;
+    border-top-width: 15px;
+    border-right-width: 15px;
+    border-bottom-width: 15px;
+    border-left-width: 15px;
     border-top-style: solid;
     border-right-style: solid;
     border-bottom-style: solid;
@@ -129,13 +129,13 @@ body
 #f
 {
     color: black;
-    height: 75px;
-    width: 75px;
-    background-color: purple;
-    border-top-width: 10px;
-    border-right-width: 10px;
-    border-bottom-width: 10px;
-    border-left-width: 10px;
+    height: 85px;
+    width: 85px;
+    background-color: magenta;
+    border-top-width: 15px;
+    border-right-width: 15px;
+    border-bottom-width: 15px;
+    border-left-width: 15px;
     border-top-style: solid;
     border-right-style: solid;
     border-bottom-style: solid;
@@ -144,13 +144,13 @@ body
 #g
 {
     color: black;
-    height: 75px;
-    width: 75px;
-    background-color: gold;
-    border-top-width: 10px;
-    border-right-width: 10px;
-    border-bottom-width: 10px;
-    border-left-width: 10px;
+    height: 85px;
+    width: 85px;
+    background-color: orange;
+    border-top-width: 15px;
+    border-right-width: 15px;
+    border-bottom-width: 15px;
+    border-left-width: 15px;
     border-top-style: solid;
     border-right-style: solid;
     border-bottom-style: solid;
@@ -159,13 +159,14 @@ body
 #h
 {
     color: black;
-    height: 75px;
-    width: 75px;
-    background-color: forestgreen;
-    border-top-width: 10px;
-    border-right-width: 10px;
-    border-bottom-width: 10px;
-    border-left-width: 10px;
+    height: 85px;
+    width: 85px;
+    background-color: maroon;
+    border-top-width: 15px;
+    border-right-width: 15px;
+    border-bottom-width: 15px;
+    border-left-width: 15px;
+    border-top-style: solid;
     border-right-style: solid;
     border-bottom-style: solid;
     border-left-style: solid;
@@ -173,13 +174,13 @@ body
 #i
 {
     color: black;
-    height: 75px;
-    width: 75px;
-    background-color: dodgerblue;
-    border-top-width: 10px;
-    border-right-width: 10px;
-    border-bottom-width: 10px;
-    border-left-width: 10px;
+    height: 85px;
+    width: 85px;
+    background-color: gray;
+    border-top-width: 15px;
+    border-right-width: 15px;
+    border-bottom-width: 15px;
+    border-left-width: 15px;
     border-top-style: solid;
     border-right-style: solid;
     border-bottom-style: solid;
@@ -188,13 +189,13 @@ body
 #j
 {
     color: black;
-    height: 75px;
-    width: 75px;
-    background-color: cadetblue;
-    border-top-width: 10px;
-    border-right-width: 10px;
-    border-bottom-width: 10px;
-    border-left-width: 10px;
+    height: 85px;
+    width: 85px;
+    background-color: green;
+    border-top-width: 15px;
+    border-right-width: 15px;
+    border-bottom-width: 15px;
+    border-left-width: 15px;
     border-top-style: solid;
     border-right-style: solid;
     border-bottom-style: solid;
