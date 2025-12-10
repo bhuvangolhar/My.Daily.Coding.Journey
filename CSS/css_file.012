@@ -1,13 +1,13 @@
 
-<!-- (HTML File : Text alignment properties) -->
+<!-- (HTML file : Text alignment in div) -->
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Text alignment properties</title>
-    <link rel="stylesheet" href="text_alignment_properties.css">
+    <title>Text alignment in div</title>
+    <link rel="stylesheet" href="text_alignment_in_div.css">
 </head>
 <body>
     <div>
@@ -18,12 +18,12 @@
 </html>
 
 
-/* (CSS File : Text alignment properties) */
+/* (CSS file : Text alignment in div) */
 
 body 
 {
     background-color: wheat;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 div
 {
