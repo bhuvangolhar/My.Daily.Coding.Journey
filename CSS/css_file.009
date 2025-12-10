@@ -1,5 +1,5 @@
 
-<!-- (HTML File : Border width of element) -->
+<!-- (HTML file : Border width of element) -->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -7,157 +7,157 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Border width of element</title>
-    <link rel="stylesheet" href="border_width_of_element">
+    <link rel="stylesheet" href="border_width_of_element.css">
 </head>
 <body>
     <div id="a">
-        C
+        Nandanvan
     </div>
     <div id="b">
-        C++
+        Sakkardara
     </div>
     <div id="c">
-        HTML
+        Mahal
     </div>
     <div id="d">
-        CSS
+        Itwari
     </div>
     <div id="e">
-        Java
+        Sitabuldi
     </div>
     <div id="f">
-        JavaScript
+        Dhantoli
     </div>
     <div id="g">
-        React
+        Ramdaspeth
     </div>
     <div id="h">
-        Python
+        Dharampeth
     </div>
     <div id="i">
-        SQL
+        Kalamana
     </div>
     <div id="j">
-        C#
+        Sadar
     </div>
 </body>
 </html>
 
 
-/* (CSS File : Border width of element) */
+/* (CSS file : Border width of element) */
 
 body 
 {
-    background-color: azure;
+    background-color: white;
     font-family: 'Times New Roman', Times, serif;
 }
 #a
 {
     color: black;
-    height: 75px;
-    width: 75px;
-    background-color: brown;
-    border-top-width: 20px;
-    border-right-width: 20px;
-    border-bottom-width: 20px;
-    border-left-width: 20px;
+    height: 85px;
+    width: 85px;
+    background-color: pink;
+    border-top-width: 25px;
+    border-right-width: 25px;
+    border-bottom-width: 25px;
+    border-left-width: 25px;
 }
 #b
 {
     color: black;
-    height: 75px;
-    width: 75px;
-    background-color: darkorange;
-    border-top-width: 20px;
-    border-right-width: 20px;
-    border-bottom-width: 20px;
-    border-left-width: 20px;
+    height: 85px;
+    width: 85px;
+    background-color: blue;
+    border-top-width: 25px;
+    border-right-width: 25px;
+    border-bottom-width: 25px;
+    border-left-width: 25px;
 }
 #c
 {
     color: black;
-    height: 75px;
-    width: 75px;
-    background-color: violet;
-    border-top-width: 20px;
-    border-right-width: 20px;
-    border-bottom-width: 20px;
-    border-left-width: 20px;
+    height: 85px;
+    width: 85px;
+    background-color: yellow;
+    border-top-width: 25px;
+    border-right-width: 25px;
+    border-bottom-width: 25px;
+    border-left-width: 25px;
 }
 #d
 {
     color: black;
-    height: 75px;
-    width: 75px;
-    background-color: maroon;
-    border-top-width: 20px;
-    border-right-width: 20px;
-    border-bottom-width: 20px;
-    border-left-width: 20px;
+    height: 85px;
+    width: 85px;
+    background-color: purple;
+    border-top-width: 25px;
+    border-right-width: 25px;
+    border-bottom-width: 25px;
+    border-left-width: 25px;
 }
 #e
 {
     color: black;
-    height: 75px;
-    width: 75px;
+    height: 85px;
+    width: 85px;
     background-color: red;
-    border-top-width: 20px;
-    border-right-width: 20px;
-    border-bottom-width: 20px;
-    border-left-width: 20px;
+    border-top-width: 25px;
+    border-right-width: 25px;
+    border-bottom-width: 25px;
+    border-left-width: 25px;
 }
 #f
 {
     color: black;
-    height: 75px;
-    width: 75px;
-    background-color: purple;
-    border-top-width: 20px;
-    border-right-width: 20px;
-    border-bottom-width: 20px;
-    border-left-width: 20px;
+    height: 85px;
+    width: 85px;
+    background-color: magenta;
+    border-top-width: 25px;
+    border-right-width: 25px;
+    border-bottom-width: 25px;
+    border-left-width: 25px;
 }
 #g
 {
     color: black;
-    height: 75px;
-    width: 75px;
-    background-color: gold;
-    border-top-width: 20px;
-    border-right-width: 20px;
-    border-bottom-width: 20px;
-    border-left-width: 20px;
+    height: 85px;
+    width: 85px;
+    background-color: orange;
+    border-top-width: 25px;
+    border-right-width: 25px;
+    border-bottom-width: 25px;
+    border-left-width: 25px;
 }
 #h
 {
     color: black;
-    height: 75px;
-    width: 75px;
-    background-color: forestgreen;
-    border-top-width: 20px;
-    border-right-width: 20px;
-    border-bottom-width: 20px;
-    border-left-width: 20px;
+    height: 85px;
+    width: 85px;
+    background-color: maroon;
+    border-top-width: 25px;
+    border-right-width: 25px;
+    border-bottom-width: 25px;
+    border-left-width: 25px;
 }
 #i
 {
     color: black;
-    height: 75px;
-    width: 75px;
-    background-color: dodgerblue;
-    border-top-width: 20px;
-    border-right-width: 20px;
-    border-bottom-width: 20px;
-    border-left-width: 20px;
+    height: 85px;
+    width: 85px;
+    background-color: gray;
+    border-top-width: 25px;
+    border-right-width: 25px;
+    border-bottom-width: 25px;
+    border-left-width: 25px;
 }
 #j
 {
     color: black;
-    height: 75px;
-    width: 75px;
-    background-color: cadetblue;
-    border-top-width: 20px;
-    border-right-width: 20px;
-    border-bottom-width: 20px;
-    border-left-width: 20px;
+    height: 85px;
+    width: 85px;
+    background-color: green;
+    border-top-width: 25px;
+    border-right-width: 25px;
+    border-bottom-width: 25px;
+    border-left-width: 25px;
 }
