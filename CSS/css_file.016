@@ -1,58 +1,46 @@
-$$
-<!-- (HTML File : Text decoration properties) -->
+
+<!-- (HTML file : Outline style in div) -->
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Text decoration properties</title>
-    <link rel="stylesheet" href="text_decoration_properties.css">
+    <title>Outline style in div</title>
+    <link rel="stylesheet" href="outline_style_in_div.css">
 </head>
 <body>
     <div>
-        Trees are vital for life on Earth as they provide oxygen, improve air quality,
-        conserve water, preserve soil, and support biodiversity. They act as natural 
-        air filters by absorbing carbon dioxide and releasing oxygen, helping combat 
-        climate change. Trees also offer shade, reduce urban heat, and serve as habitats
-        for countless species. Beyond environmental benefits, they promote human well-
-        being by creating peaceful surroundings and enhancing the beauty of our planet.
+        C is a general-purpose programming language 
+        invented in 1972 by Dennis Ritchie at Bell Labs.
     </div>
 </body>
 </html>
 
 
-/* (CSS File : Text decoration properties) */
+/* (CSS file : Outline style in div) */
 
 body 
 {
-    background-color: whitesmoke;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 div
 {
-    text-align: justify;
+    text-align: right;
     margin-top: 225px;
     margin-right: 225px;
     margin-bottom: 225px;
     margin-left: 225px;
-    padding-top: 90px;
+    padding-top: 110px;
     padding-right: 110px;
     padding-bottom: 110px;
     padding-left: 110px;
     outline-width: 7px;
     outline-style: solid;
-    outline-color: black;
-    outline-offset: 7px;
-    text-decoration-line: underline;
-    text-decoration-style: dotted;
-    text-decoration-color: yellow;
-    text-decoration-thickness: 3px;
-    color: blue;
+    color: black;
     font-size: 18px;
     height: 30px;
     width: 980px;
-    background-color: maroon;
+    background-color: purple;
 }
-
-.
