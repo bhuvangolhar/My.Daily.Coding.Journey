@@ -1,13 +1,13 @@
 
-<!-- (HTML File : Outline properties) -->
+<!-- (HTML file : Outline width in div) -->
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Outline properties</title>
-    <link rel="stylesheet" href="outline_properties.css">
+    <title>Outline width in div</title>
+    <link rel="stylesheet" href="outline_width_in_div.css">
 </head>
 <body>
     <div>
@@ -18,12 +18,12 @@
 </html>
 
 
-/* (CSS File : Outline properties) */
+/* (CSS file : Outline width in div) */
 
 body 
 {
-    background-color: whitesmoke;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 div
 {
@@ -37,12 +37,9 @@ div
     padding-bottom: 110px;
     padding-left: 110px;
     outline-width: 7px;
-    outline-style: solid;
-    outline-color: black;
-    outline-offset: 7px;
     color: black;
     font-size: 18px;
     height: 30px;
     width: 980px;
-    background-color: mediumpurple;
+    background-color: purple;
 }
