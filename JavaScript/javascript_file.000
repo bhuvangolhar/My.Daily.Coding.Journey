@@ -1,3 +1,28 @@
-.
-.
-.
+
+<!-- (HTML file : Hello World) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link rel="stylesheet" href="hello_world.css">
+</head>
+<body>
+    <script src="hello_world.js"></script> 
+</body>
+</html>
+
+
+/* (CSS file : Hello World) */
+
+body
+{
+    background-color: white
+}
+
+
+// (JavaScript file : Hello World)
+
+console.log("Hello World");
