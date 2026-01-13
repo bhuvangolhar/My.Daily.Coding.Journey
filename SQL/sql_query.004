@@ -1,0 +1,4 @@
+
+-- (MySQL query : Counting)
+
+SELECT COUNT(*) FROM Rivers;
