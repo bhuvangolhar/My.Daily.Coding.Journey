@@ -1,0 +1,4 @@
+
+-- (MySQL query : Distinction)
+
+SELECT DISTINCT genre FROM Songs;
