@@ -1,0 +1,5 @@
+
+# (Python program : Print using variable)
+
+game = "SWORDIGO"
+print(game)
