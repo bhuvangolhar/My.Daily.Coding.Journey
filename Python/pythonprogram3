@@ -1,5 +1,5 @@
-a = 10
-b = 20
+a = 11
+b = 22
 
 if a > b:
     print("a is greater")
