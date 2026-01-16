@@ -1,7 +1,0 @@
-a = 0.00001
-b = 0.00002
-
-if a < b:
-    print("a is greater")
-else:
-    print("b is greater")
