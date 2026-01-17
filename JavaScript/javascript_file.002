@@ -1,0 +1,31 @@
+
+<!-- (HTML file : User input) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User input</title>
+    <link rel="stylesheet" href="user_input.css">
+</head>
+<body>
+    <h1 id="output"></h1>
+    <script src="user_input.js"></script> 
+</body>
+</html>
+
+
+/* (CSS file : User input) */
+
+body
+{
+    background-color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+/* (JavaScript file : User input) */
+
+let name = prompt("Enter your name:");
+document.getElementById("output").innerText = name;
