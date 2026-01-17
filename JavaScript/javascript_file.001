@@ -1,0 +1,30 @@
+
+<!-- (HTML file : Print using variable) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Print using variable</title>
+    <link rel="stylesheet" href="print_using_variable.css">
+</head>
+<body>
+    <p id="message"></p>
+    <script src="print_using_variable.js"></script> 
+</body>
+</html>
+
+
+/* (CSS file : Print using variable) */
+
+body
+{
+    background-color: pink
+}
+
+
+/* (JavaScript file : Print using variable) */
+
+let message = "Hey! What's up?";
+document.getElementById("message").innerText = message;
