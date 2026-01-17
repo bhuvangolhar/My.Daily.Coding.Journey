@@ -1,0 +1,32 @@
+
+<!-- (HTML file : Subtraction) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subtraction</title>
+    <link rel="stylesheet" href="subtraction.css">
+</head>
+<body>
+    <p id="result"></p>
+    <script src="subtraction.js"></script> 
+</body>
+</html>
+
+
+/* (CSS file : Subtraction) */
+
+body
+{
+    background-color: azure
+}
+
+
+/* (JavaScript file : Subtraction) */
+
+let a = Number(prompt("Enter the first integer:"));
+let b = Number(prompt("Enter the second integer:"));
+let difference = a - b;
+document.getElementById("result").innerText = difference;
