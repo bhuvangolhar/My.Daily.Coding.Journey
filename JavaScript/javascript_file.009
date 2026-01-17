@@ -1,0 +1,32 @@
+
+<!-- (HTML file : Modulus) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modulus</title>
+    <link rel="stylesheet" href="modulus.css">
+</head>
+<body>
+    <p id="result"></p>
+    <script src="modulus.js"></script> 
+</body>
+</html>
+
+
+/* (CSS file : Modulus) */
+
+body
+{
+    background-color: azure
+}
+
+
+/* (JavaScript file : Modulus) */
+
+let a = Number(prompt("Enter the first integer:"));
+let b = Number(prompt("Enter the second integer:"));
+let remainder = a % b;
+document.getElementById("result").innerText = remainder;
