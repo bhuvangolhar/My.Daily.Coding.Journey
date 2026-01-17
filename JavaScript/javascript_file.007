@@ -1,0 +1,32 @@
+
+<!-- (HTML file : Multiplication) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multiplication</title>
+    <link rel="stylesheet" href="multiplication.css">
+</head>
+<body>
+    <p id="result"></p>
+    <script src="multiplication.js"></script> 
+</body>
+</html>
+
+
+/* (CSS file : Multiplication) */
+
+body
+{
+    background-color: azure
+}
+
+
+/* (JavaScript file : Multiplication) */
+
+let a = Number(prompt("Enter the first integer:"));
+let b = Number(prompt("Enter the second integer:"));
+let product = a * b;
+document.getElementById("result").innerText = product;
