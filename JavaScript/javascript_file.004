@@ -1,0 +1,36 @@
+
+<!-- (HTML file : Click event) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Click event</title>
+    <link rel="stylesheet" href="click_event.css">
+</head>
+<body>
+    <h3 id="output">Click the button</h3>
+    <button id="btn">Click Me</button>
+    <script src="click_event.js"></script> 
+</body>
+</html>
+
+
+/* (CSS file : Click event) */
+
+body
+{
+    background-color: wheat;
+    color: blue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+}
+
+
+/* (JavaScript file : Click event) */
+
+document.getElementById("btn").onclick = function () 
+{
+    document.getElementById("output").innerText = "Button clicked";
+};
