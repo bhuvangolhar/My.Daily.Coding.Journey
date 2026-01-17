@@ -30,5 +30,4 @@ body
 
 let firstName = prompt("Enter first name:");
 let lastName = prompt("Enter last name:");
-
 document.getElementById("output").innerText = firstName + " " + lastName;
