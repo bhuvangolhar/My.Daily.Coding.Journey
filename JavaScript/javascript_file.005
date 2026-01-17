@@ -1,0 +1,32 @@
+
+<!-- (HTML file : Addition) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Addition</title>
+    <link rel="stylesheet" href="addition.css">
+</head>
+<body>
+    <p id="result"></p>
+    <script src="addition.js"></script> 
+</body>
+</html>
+
+
+/* (CSS file : Addition) */
+
+body
+{
+    background-color: azure
+}
+
+
+/* (JavaScript file : Addition) */
+
+let a = Number(prompt("Enter the first integer:"));
+let b = Number(prompt("Enter the second integer:"));
+let sum = a + b;
+document.getElementById("result").innerText = sum;
