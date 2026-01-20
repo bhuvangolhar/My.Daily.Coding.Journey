@@ -1,0 +1,24 @@
+
+// (React function : Subtraction)
+
+import { useState } from "react";
+function App() {
+  const [a, setA] = useState(0);
+  const [b, setB] = useState(0);
+  return (
+    <>
+      <input
+        type="number"
+        placeholder="Enter the first integer"
+        onChange={(e) => setA(Number(e.target.value))}
+      />
+      <input
+        type="number"
+        placeholder="Enter the second integer"
+        onChange={(e) => setB(Number(e.target.value))}
+      />
+      <p>Subtraction: {a - b}</p>
+    </>
+  );
+}
+export default App;
