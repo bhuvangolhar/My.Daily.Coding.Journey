@@ -1,5 +1,5 @@
 
-/* (React function : Print using variable)  */
+// (React function : Print using variable)
 
 function App() {
   const message = "Good Evening";
