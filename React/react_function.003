@@ -1,0 +1,16 @@
+
+// (React function : Button click)
+
+import { useState } from "react";
+function App() {
+  const [text, setText] = useState("Press this button");
+  return (
+    <>
+      <p>{text}</p>
+      <button onClick={() => setText("Button was pressed")}>
+        Press Here
+      </button>
+    </>
+  );
+}
+export default App;
