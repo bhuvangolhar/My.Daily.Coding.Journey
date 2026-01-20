@@ -1,0 +1,8 @@
+
+/* (React function : Print using variable)  */
+
+function App() {
+  const message = "Good Evening";
+  return <>{message}</>;
+}
+export default App;
