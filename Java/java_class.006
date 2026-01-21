@@ -1,0 +1,19 @@
+
+// (Java class : Division)
+
+package projectFolder;
+
+import java.util.Scanner;
+public class Division
+{
+  public static void main(String[] args)
+  {
+    Scanner scan = new Scanner(System.in);
+    System.out.print("Enter the first integer = ");
+    int a = scan.nextInt();
+    System.out.print("Enter the second integer = ");
+    int b = scan.nextInt();
+    int quotient = a / b;
+    System.out.println("Division of the integers = " + quotient);
+  }
+}
