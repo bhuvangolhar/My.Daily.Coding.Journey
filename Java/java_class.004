@@ -1,0 +1,19 @@
+
+// (Java class : Subtraction)
+
+package projectFolder;
+
+import java.util.Scanner;
+public class Subtraction
+{
+  public static void main(String[] args)
+  {
+    Scanner scan = new Scanner(System.in);
+    System.out.print("Enter the first integer = ");
+    int a = scan.nextInt();
+    System.out.print("Enter the second integer = ");
+    int b = scan.nextInt();
+    int difference = a - b;
+    System.out.println("Subtraction of the integers = " + difference);
+  }
+}
