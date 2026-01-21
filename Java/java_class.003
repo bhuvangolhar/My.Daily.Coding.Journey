@@ -1,0 +1,19 @@
+
+// (Java class : Addition)
+
+package projectFolder;
+
+import java.util.Scanner;
+public class Addition
+{
+  public static void main(String[] args)
+  {
+    Scanner scan = new Scanner(System.in);
+    System.out.print("Enter the first integer = ");
+    int a = scan.nextInt();
+    System.out.print("Enter the second integer = ");
+    int b = scan.nextInt();
+    int sum = a + b;
+    System.out.println("Addition of the integers = " + sum);
+  }
+}
