@@ -1,0 +1,29 @@
+
+// (Java class : Another comparison)
+
+package projectFolder;
+
+import java.util.Scanner;
+public class AnotherComparison
+{
+  public static void main(String[] args)
+  {
+    Scanner scan = new Scanner(System.in);
+    System.out.print("Enter the first integer = ");
+    int a = scan.nextInt();
+    System.out.print("Enter the second integer = ");
+    int b = scan.nextInt();
+    if (a > b)
+    {
+      System.out.println("First integer is greater");
+    }
+    else if (a < b)
+    {
+      System.out.println("Second integer is greater");
+    }
+    else
+    {
+      System.out.println("Both the integers are equal");
+    }
+  }
+}
