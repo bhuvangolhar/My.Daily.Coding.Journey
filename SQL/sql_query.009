@@ -1,0 +1,5 @@
+
+-- (MySQL query : Range filters)
+
+SELECT * FROM Students
+WHERE score BETWEEN 60 AND 80;
