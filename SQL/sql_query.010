@@ -1,0 +1,5 @@
+
+-- (MySQL query : Pattern matching)
+
+SELECT * FROM Customers
+WHERE email LIKE '%@gmail.com';
