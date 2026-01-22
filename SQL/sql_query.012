@@ -1,0 +1,5 @@
+
+-- (MySQL query : Null values)
+
+SELECT * FROM Bills
+WHERE transaction_date IS NULL;
