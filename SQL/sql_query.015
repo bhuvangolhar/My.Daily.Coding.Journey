@@ -1,0 +1,4 @@
+
+-- (MySQL query : Average payment)
+
+SELECT AVG(amount) FROM Payments;
