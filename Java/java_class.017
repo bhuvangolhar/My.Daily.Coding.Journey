@@ -1,0 +1,27 @@
+
+// (Java class : AlphabetDigitSpecial)
+
+package projectFolder;
+
+import java.util.Scanner;
+public class AlphabetDigitSpecial
+{
+  public static void main(String[] args)
+  {
+    Scanner scan = new Scanner(System.in);
+    System.out.print("Enter a character = ");
+    char ch = scan.next().charAt(0);
+    if ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z'))
+    {
+      System.out.println("The given character is an alphabet");
+    }
+    else if (ch >= '0' && ch <= '9')
+    {
+      System.out.println("The given character is a digit");
+    }
+    else
+    {
+      System.out.println("The given character is a special character");
+    }
+  }
+}
