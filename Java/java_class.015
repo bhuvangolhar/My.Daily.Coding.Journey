@@ -1,0 +1,31 @@
+
+// (Java class : SmallestOfThree)
+
+package projectFolder;
+
+import java.util.Scanner;
+public class SmallestOfThree
+{
+  public static void main(String[] args)
+  {
+    Scanner scan = new Scanner(System.in);
+    System.out.print("Enter the first integer = ");
+    int a = scan.nextInt();
+    System.out.print("Enter the second integer = ");
+    int b = scan.nextInt();
+    System.out.print("Enter the third integer = ");
+    int c = scan.nextInt();
+    if (a < b && a < c)
+    {
+      System.out.println("First integer is the smallest");
+    }
+    else if (b < a && b < c)
+    {
+      System.out.println("Second integer is the smallest");
+    }
+    else
+    {
+      System.out.println("Third integer is the smallest");
+    }
+  }
+}
