@@ -1,0 +1,11 @@
+ // (Java class : DivisibleBy3Or7)
+
+package projectFolder;
+
+import java.util.Scanner;
+
+public class DivisibleBy3Or7
+{
+  public static void main(String[] args)
+  {
+    Scanner scan = new Scanner(System.in
