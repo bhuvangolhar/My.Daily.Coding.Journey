@@ -1,11 +1,23 @@
- // (Java class : DivisibleBy3Or7)
+
+// (Java class : DivisibleByTenOrTwenty)
 
 package projectFolder;
 
 import java.util.Scanner;
-
-public class DivisibleBy3Or7
+public class DivisibleByTenOrTwenty
 {
   public static void main(String[] args)
   {
-    Scanner scan = new Scanner(System.in
+    Scanner scan = new Scanner(System.in);
+    System.out.print("Enter an integer = ");
+    int num = scan.nextInt();
+    if (num % 10 == 0 || num % 20 == 0)
+    {
+      System.out.println("The integer is divisible by 10 or 20");
+    }
+    else
+    {
+      System.out.println("The integer is not divisible by 10 or 20");
+    }
+  }
+}
