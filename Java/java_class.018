@@ -13,15 +13,15 @@ public class UppercaseOrLowercase
     char ch = scan.next().charAt(0);
     if (ch >= 'A' && ch <= 'Z')
     {
-      System.out.println("The character is uppercase");
+      System.out.println("This character is uppercase");
     }
     else if (ch >= 'a' && ch <= 'z')
     {
-      System.out.println("The character is lowercase");
+      System.out.println("This character is lowercase");
     }
     else
     {
-      System.out.println("The input is not an alphabet");
+      System.out.println("This input is not an alphabet");
     }
   }
 }
