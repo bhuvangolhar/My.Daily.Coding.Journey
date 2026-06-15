@@ -1,0 +1,42 @@
+<!-- HTML file: Letter spacing -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Letter spacing</title>
+    <link rel="stylesheet" href="014.css">
+</head>
+<body>
+    <div>
+        <h3>Java Programming</h3>
+
+        <p>
+            Java is a high-level programming language
+            invented in 1991 by James Gosling at Sun Microsystems.
+        </p>
+    </div>
+</body>
+</html>
+
+/* CSS file: Letter spacing */
+
+body {
+    background-color: whitesmoke;
+}
+
+div {
+    width: 450px;
+    background-color: lightyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: blue;
+    letter-spacing: 3px;
+}
+
+p {
+    color: black;
+}
