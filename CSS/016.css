@@ -1,0 +1,42 @@
+<!-- HTML file: Line height -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Line height</title>
+    <link rel="stylesheet" href="016.css">
+</head>
+<body>
+    <div>
+        <h3>C Programming</h3>
+
+        <p>
+            C is a general-purpose programming language
+            invented in 1972 by Dennis Ritchie at Bell Labs.
+        </p>
+    </div>
+</body>
+</html>
+
+/* CSS file: Line height */
+
+body {
+    background-color: whitesmoke;
+}
+
+div {
+    width: 450px;
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    color: black;
+    line-height: 40px;
+}
