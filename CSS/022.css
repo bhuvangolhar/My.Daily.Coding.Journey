@@ -1,0 +1,43 @@
+<!-- HTML file: Overflow -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overflow</title>
+    <link rel="stylesheet" href="022.css">
+</head>
+<body>
+    <div>
+        <h4>Java Programming</h4>
+
+        <p>
+            Java is a high-level programming language
+            invented in 1991 by James Gosling at Sun Microsystems.
+        </p>
+    </div>
+</body>
+</html>
+
+/* CSS file: Overflow */
+
+body {
+    background-color: whitesmoke;
+}
+
+div {
+    height: 60px;
+    width: 250px;
+    overflow: scroll;
+    background-color: lightyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    color: blue;
+}
+
+p {
+    color: black;
+}
