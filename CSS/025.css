@@ -1,0 +1,122 @@
+<!-- HTML file: Border style -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Border style</title>
+    <link rel="stylesheet" href="025.css">
+</head>
+<body>
+    <div id="a">Nandanvan</div>
+    <div id="b">Wathoda</div>
+    <div id="c">Sakkardara</div>
+    <div id="d">Mahal</div>
+    <div id="e">Itwari</div>
+    <div id="f">Dhantoli</div>
+    <div id="g">Sitabuldi</div>
+    <div id="h">Ramdaspeth</div>
+    <div id="i">Dharampeth</div>
+    <div id="j">Sadar</div>
+</body>
+</html>
+
+/* CSS file: Border style */
+
+body {
+    background-color: azure;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+}
+
+#a {
+    background-color: magenta;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-style: solid;
+}
+
+#b {
+    background-color: brown;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-style: dashed;
+}
+
+#c {
+    background-color: yellow;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-style: dotted;
+}
+
+#d {
+    background-color: red;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-style: double;
+}
+
+#e {
+    background-color: orange;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-style: groove;
+}
+
+#f {
+    background-color: green;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-style: ridge;
+}
+
+#g {
+    background-color: blue;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-style: inset;
+}
+
+#h {
+    background-color: purple;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-style: outset;
+}
+
+#i {
+    background-color: maroon;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-style: solid;
+}
+
+#j {
+    background-color: grey;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-style: dashed;
+}
