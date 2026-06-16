@@ -1,0 +1,42 @@
+<!-- HTML file: Cursor -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cursor</title>
+    <link rel="stylesheet" href="023.css">
+</head>
+<body>
+    <div>
+        <h4>Python Programming</h4>
+
+        <p>
+            Python is a high-level programming language invented
+            in 1991 by Guido van Rossum at Centrum Wiskunde & Informatica.
+        </p>
+    </div>
+</body>
+</html>
+
+/* CSS file: Cursor */
+
+body {
+    background-color: whitesmoke;
+}
+
+div {
+    width: 450px;
+    background-color: lightgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+
+h4 {
+    color: blue;
+}
+
+p {
+    color: black;
+}
