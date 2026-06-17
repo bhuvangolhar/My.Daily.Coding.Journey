@@ -1,0 +1,33 @@
+<!-- HTML file: Visibility -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visibility</title>
+    <link rel="stylesheet" href="031.css">
+</head>
+<body>
+    <div>
+        Anthropic develops artificial intelligence technologies
+        that help people with reasoning, writing, coding,
+        and research tasks.
+    </div>
+</body>
+</html>
+
+/* CSS file: Visibility */
+
+body {
+    background-color: azure;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+}
+
+div {
+    background-color: lightyellow;
+    opacity: 0.7;
+    visibility: visible;
+}
