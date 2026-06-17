@@ -1,0 +1,132 @@
+<!-- HTML file: Padding -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Padding</title>
+    <link rel="stylesheet" href="029.css">
+</head>
+<body>
+    <div id="a">Nandanvan</div>
+    <div id="b">Wathoda</div>
+    <div id="c">Sakkardara</div>
+    <div id="d">Mahal</div>
+    <div id="e">Itwari</div>
+    <div id="f">Dhantoli</div>
+    <div id="g">Sitabuldi</div>
+    <div id="h">Ramdaspeth</div>
+    <div id="i">Dharampeth</div>
+    <div id="j">Sadar</div>
+</body>
+</html>
+
+/* CSS file: Padding */
+
+body {
+    background-color: azure;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+}
+
+#a {
+    background-color: magenta;
+    border: 5px solid black;
+    margin: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#b {
+    background-color: brown;
+    border: 5px dashed black;
+    margin: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#c {
+    background-color: yellow;
+    border: 5px dotted black;
+    margin: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#d {
+    background-color: red;
+    border: 5px double black;
+    margin: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#e {
+    background-color: orange;
+    border: 5px groove black;
+    margin: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#f {
+    background-color: green;
+    border: 5px ridge black;
+    margin: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#g {
+    background-color: blue;
+    border: 5px inset black;
+    margin: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#h {
+    background-color: purple;
+    border: 5px outset black;
+    margin: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#i {
+    background-color: maroon;
+    border: 5px solid black;
+    margin: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#j {
+    background-color: grey;
+    border: 5px dashed black;
+    margin: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
