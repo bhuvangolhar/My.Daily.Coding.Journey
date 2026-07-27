@@ -1,0 +1,12 @@
+-- MySQL query: Create function
+
+DELIMITER //
+
+CREATE FUNCTION GetSquare(num INT)
+RETURNS INT
+DETERMINISTIC
+BEGIN
+    RETURN num * num;
+END //
+
+DELIMITER ;
